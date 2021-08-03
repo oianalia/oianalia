@@ -15,7 +15,7 @@
    <img align="center" alt="Analia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Analia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Analia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right"="alignnone wp-image-1595 size-full" src="http://hellopostershow.com/home/wp-content/uploads/2011/05/BANNER-1.gif" alt="" width="25%">
+    
     
  
 </div>
